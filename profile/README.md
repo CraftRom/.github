@@ -19,8 +19,8 @@ We support 🧙‍♂️ our own open source projects such as:
 	<summary>"Communication method for solving various problems, as well as supporting users."</summary>
 	<br>
 	<ul>
-	<li><a href="https://t.me/craft_rom">Telegram group</a> - For a discussion of devices, features, or just a general conversation about Android, check out our telegram.</li>
-	<li><a href="https://t.me/ct_host">Telegram news channel</a> - Update ROMs, kernels and other news.</li>
+	<li><a href="http://t.me/craftrom">Telegram group</a> - For a discussion of devices, features, or just a general conversation about Android, check out our telegram.</li>
+	<li><a href="http://t.me/craftrom_news">Telegram news channel</a> - Update ROMs, kernels and other news.</li>
 	</ul>
 </details>
 
